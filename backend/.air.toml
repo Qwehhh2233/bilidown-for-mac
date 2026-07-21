@@ -1,0 +1,3 @@
+[build]
+exclude_dir = ["download", "bin"]
+include_ext = ["go"]

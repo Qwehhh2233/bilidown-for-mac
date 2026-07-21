@@ -1,0 +1,30 @@
+.DS_Store
+.env
+.env.*
+
+# Local working history and packaged artifacts
+/work/
+/outputs/
+/build/
+/release/
+
+# Swift / Xcode
+**/.build/
+**/DerivedData/
+**/module-cache/
+*.xcuserstate
+
+# Go runtime data
+*.db
+*.db-shm
+*.db-wal
+*.log
+/backend/bilidown
+
+# JavaScript dependencies and generated assets
+**/node_modules/
+**/dist/
+
+# Packaged binaries
+*.app
+*.zip

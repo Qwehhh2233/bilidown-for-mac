@@ -1,0 +1,13 @@
+Bilidown for Mac
+Copyright 2026 Qwehhh2233
+
+This product includes software derived from Bilidown:
+https://github.com/iuroc/bilidown
+Copyright 2025 iuroc
+
+The upstream project is licensed under the Apache License, Version 2.0.
+
+Changes in this derivative work include a native SwiftUI macOS interface,
+headless backend operation, macOS window and menu bar integration, file
+location handling, media preview support, task filename persistence, and
+macOS application packaging.

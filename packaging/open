@@ -1,0 +1,9 @@
+#!/bin/zsh
+
+# Bilidown 后端会用 `open http://127.0.0.1:8098` 启动默认浏览器。
+# 原生壳已经在 WKWebView 中显示这个地址，因此只拦截本地界面 URL。
+if [[ "$1" == http://127.0.0.1:8098* ]]; then
+    exit 0
+fi
+
+exec /usr/bin/open "$@"
