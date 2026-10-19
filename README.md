@@ -9,8 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Qwehhh2233/bilidown-for-mac/releases/latest"><img src="https://img.shields.io/github/v/release/Qwehhh2233/bilidown-for-mac?style=flat-square&label=最新版" alt="GitHub Release"></a>
-  <a href="https://github.com/Qwehhh2233/bilidown-for-mac/releases"><img src="https://img.shields.io/github/downloads/Qwehhh2233/bilidown-for-mac/total?style=flat-square&label=下载量" alt="GitHub Downloads"></a>
   <img src="https://img.shields.io/badge/macOS-13%2B-black?style=flat-square&logo=apple" alt="macOS 13+">
   <img src="https://img.shields.io/badge/芯片-Apple%20Silicon-black?style=flat-square&logo=apple" alt="Apple Silicon">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/Qwehhh2233/bilidown-for-mac?style=flat-square" alt="License"></a>
